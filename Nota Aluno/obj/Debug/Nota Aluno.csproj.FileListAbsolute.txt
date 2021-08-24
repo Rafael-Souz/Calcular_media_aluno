@@ -1,0 +1,10 @@
+C:\Users\catarina\OneDrive\Área de Trabalho\4°Semestre\PROGRAMAÇÃO VISUAL\23-08-2021 - Média do Aluno\Nota Aluno\Nota Aluno\bin\Debug\Nota Aluno.exe.config
+C:\Users\catarina\OneDrive\Área de Trabalho\4°Semestre\PROGRAMAÇÃO VISUAL\23-08-2021 - Média do Aluno\Nota Aluno\Nota Aluno\bin\Debug\Nota Aluno.exe
+C:\Users\catarina\OneDrive\Área de Trabalho\4°Semestre\PROGRAMAÇÃO VISUAL\23-08-2021 - Média do Aluno\Nota Aluno\Nota Aluno\bin\Debug\Nota Aluno.pdb
+C:\Users\catarina\OneDrive\Área de Trabalho\4°Semestre\PROGRAMAÇÃO VISUAL\23-08-2021 - Média do Aluno\Nota Aluno\Nota Aluno\obj\Debug\Nota Aluno.csproj.AssemblyReference.cache
+C:\Users\catarina\OneDrive\Área de Trabalho\4°Semestre\PROGRAMAÇÃO VISUAL\23-08-2021 - Média do Aluno\Nota Aluno\Nota Aluno\obj\Debug\Nota_Aluno.Form1.resources
+C:\Users\catarina\OneDrive\Área de Trabalho\4°Semestre\PROGRAMAÇÃO VISUAL\23-08-2021 - Média do Aluno\Nota Aluno\Nota Aluno\obj\Debug\Nota_Aluno.Properties.Resources.resources
+C:\Users\catarina\OneDrive\Área de Trabalho\4°Semestre\PROGRAMAÇÃO VISUAL\23-08-2021 - Média do Aluno\Nota Aluno\Nota Aluno\obj\Debug\Nota Aluno.csproj.GenerateResource.cache
+C:\Users\catarina\OneDrive\Área de Trabalho\4°Semestre\PROGRAMAÇÃO VISUAL\23-08-2021 - Média do Aluno\Nota Aluno\Nota Aluno\obj\Debug\Nota Aluno.csproj.CoreCompileInputs.cache
+C:\Users\catarina\OneDrive\Área de Trabalho\4°Semestre\PROGRAMAÇÃO VISUAL\23-08-2021 - Média do Aluno\Nota Aluno\Nota Aluno\obj\Debug\Nota Aluno.exe
+C:\Users\catarina\OneDrive\Área de Trabalho\4°Semestre\PROGRAMAÇÃO VISUAL\23-08-2021 - Média do Aluno\Nota Aluno\Nota Aluno\obj\Debug\Nota Aluno.pdb

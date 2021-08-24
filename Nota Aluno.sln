@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nota Aluno", "Nota Aluno\Nota Aluno.csproj", "{794568B6-9121-468F-A67A-0608170BD864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794568B6-9121-468F-A67A-0608170BD864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794568B6-9121-468F-A67A-0608170BD864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794568B6-9121-468F-A67A-0608170BD864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794568B6-9121-468F-A67A-0608170BD864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70033261-A42F-40B0-904B-7E63AB2198CB}
+	EndGlobalSection
+EndGlobal
